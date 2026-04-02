@@ -9,7 +9,7 @@
             Spacing="25">
 
             <Entry x:Name="txt_cidade" />
-            <Button Text="Buscar" Clicked="Button_Clicked" />
+            <Button Text="Buscar item" Clicked="Button_Clicked" />
 
             <Label x:Name="lbl_res" />
 
